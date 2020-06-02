@@ -12,5 +12,6 @@ public class HelloGit {
         System.out.println("main add 1");
         System.out.println("branch add 1");
         System.out.println("online changes");
+        System.out.println("clone changes");
     }
 }
